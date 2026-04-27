@@ -9,5 +9,5 @@ This repository presents policy-driven analyses of major cybersecurity incidents
 ### 1. Change Healthcare Ransomware (2024)
 **Focus:** Vendor concentration risk in U.S. healthcare infrastructure  
 
-- Summary: to be added
+- Summary: [View Analysis](./projects/change-healthcare-ransomware/summary.md)
 - Full Report: [View PDF](./projects/change-healthcare-ransomware/report.pdf)
